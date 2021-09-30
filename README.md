@@ -1,6 +1,8 @@
 # Minecraft Classic
 Old minecraft on the web.
 
+Game version: `0.0.23a_01`
+
 You can play the original version [here](https://classic.minecraft.net).<br>
 *I am making this because the original version is blocked at my school and may other people requested this.*
 
