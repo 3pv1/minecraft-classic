@@ -1,7 +1,10 @@
-# minecraft-classic
-Very old minecraft on the web
+# Minecraft Classic
+Old minecraft on the web.
 
-## Badges
+You can play the original version [here](https://classic.minecraft.net).<br>
+*I am making this because the original version is blocked at my school and may other people requested this.*
+
+### Badges
 <p>
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/3kh0/minecraft-classic?color=red&label=Lastest%20commit&logo=github">
 <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/3kh0/minecraft-classic?color=purple&label=Contributors&logo=github">
@@ -15,4 +18,4 @@ Very old minecraft on the web
 ## Play
 
 Click the link below to start the game:
-[https://3kh0.github.io/minecraft-classic/](https://3kh0.github.io/minecraft-classic/)
+[https://3kh0.github.io/minecraft-classic](https://3kh0.github.io/minecraft-classic)
