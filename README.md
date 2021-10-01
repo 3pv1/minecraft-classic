@@ -21,3 +21,14 @@ You can play the original version [here](https://classic.minecraft.net).<br>
 
 Click the link below to start the game:
 [https://3kh0.github.io/minecraft-classic](https://3kh0.github.io/minecraft-classic)
+
+## Support
+
+This game should work on all modern browsers. If not the game will show a error and how to fix it.
+
+## Dev
+
+You can clone this repo on the command line:
+```
+gh repo clone 3kh0/minecraft-classic
+```
